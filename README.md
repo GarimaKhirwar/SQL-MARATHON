@@ -5,25 +5,6 @@ The work focuses on building strong fundamentals in querying, data analysis, and
 
 ---
 
-## Repository Structure
-
-SQL-Marathon/
-│
-├── assignments/
-│ ├── ASSIGNMENT 3.sql
-│ ├── ASSIGNMENT 4.sql
-│ ├── ASSIGNMENT 5.sql
-│
-├── video_projects/
-│ └── sql_pizza_sales_project/
-│ ├── SQL File 1.sql
-│ ├── SQL File 2.sql
-│ └── ...
-│
-└── README.md
-
-
----
 
 ## Project: Pizza Sales Analysis
 
